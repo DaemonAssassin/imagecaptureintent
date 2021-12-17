@@ -1,0 +1,4 @@
+<resources>
+    <string name="app_name">ImageCapture</string>
+    <string name="watch_image_in_full_screen">Watch Image in Full Screen</string>
+</resources>
